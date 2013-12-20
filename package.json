@@ -1,0 +1,17 @@
+{
+  "name": "zopfli-png",
+  "description": "Compress png",
+  "version": "0.1.4",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/zopfli-png",
+  "keywords": [],
+  "bin": {
+    "zopfli-png": "./bin/zopfli-png"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
